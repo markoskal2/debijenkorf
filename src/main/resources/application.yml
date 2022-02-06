@@ -15,4 +15,4 @@ service:
   awsAccessKey: default
   awsSecretKey: default
   sourceRootUrl: http://www.debijenkorf.nl/INTERSHOP/static/WFS/dbk-shop-Site/-/dbk-shop/nl_NL/product-images/
-  awsS3Endpoint: mockS3Bucket
+  awsS3Endpoint: 
